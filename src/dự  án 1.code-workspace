@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../../Downloads/essence-master"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "essence-master"
+  }
+}

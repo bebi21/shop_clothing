@@ -1,0 +1,9 @@
+.banner1 {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.banner1_img {
+  background-image: url("../../img//bg-img/bg-5.jpg");
+}
